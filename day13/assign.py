@@ -17,4 +17,4 @@ CA.descripton()
 print()
 
 MH = book("Psychology of money", "Morgan Housel", 105)
-MA.descripton()
+MH.descripton()
